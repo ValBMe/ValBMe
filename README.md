@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Valentín B
 - 👀 I’m interested in business and economics 
-- 🌱 I’m currently learning business and economics 
 - I’m looking to collaborate on Machine learning or big data analysis projects 
-- 📫  Reach me at valentin.benitez1060@alumnos.udg.mx
+- 📫  Reach me at valentin.benitezmendez@hotmail.com
 
 <!---
 ValBMe/ValBMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
